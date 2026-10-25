@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website with project search, light/dark mode and an AI chatbot that answers questions about my skills and projects.
 
-**Live website:** https://vercel.com/nova-218b/vedant_portfolio/HynoZAhKdk5hkjrkimEwvkmcoTbL
+**Live website:** ADD YOUR VERCEL LINK HERE
 
 ## About
 
@@ -14,11 +14,11 @@ Home, About Me, Skills, Projects, Contact Information, AI Chatbot
 
 ## Projects shown
 
-1. Python Programs Collection: factorial, Fibonacci and structure-to-dictionary programs
-2. Messy Python Code Improvement: messy script improved with AI assistance
-3. Bug Fixing Using Cursor AI: buggy program found and corrected with Cursor
-4. Interactive Quiz Application: browser quiz with scoring
-5. Book Reading List Application: reading list app with a deployed link
+1. [Python Programs Collection](https://github.com/VedantDubey12/Python-Programs-Collection): factorial, Fibonacci and structure-to-dictionary programs
+2. [Messy Python Code Improvement](https://github.com/VedantDubey12/Messy-Python-Code-improvement): messy script improved with AI assistance
+3. [Bug Fixing Using Cursor AI](https://github.com/VedantDubey12/Bug-fixing-using-Cursor-Ai): buggy program found and corrected with Cursor
+4. [Interactive Quiz Application](https://github.com/VedantDubey12/Interactive-Quiz-Application-): browser quiz with scoring
+5. [Book Reading List Application](https://github.com/VedantDubey12/Book-Reading-List-Application-): reading list app with a deployed link
 
 ## Features
 
