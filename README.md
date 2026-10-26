@@ -1,4 +1,4 @@
-# Siya Agrawal | Personal Portfolio
+# Vedant Dubey | Personal Portfolio
 
 A responsive personal portfolio website with project search, light/dark mode and an AI chatbot that answers questions about my skills and projects.
 
